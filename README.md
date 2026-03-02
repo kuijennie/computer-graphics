@@ -26,6 +26,7 @@ Design and technical drawings for a **14-floor commercial building (CT Tower)** 
 | File | Description |
 |------|-------------|
 | `BSCCS_2024_32659_COMPUTERGRAPHICS_CAT.dwg` | Main AutoCAD editable drawing file |
+| `BSCCS_2024_32659_COMPUTERGRAPHICS_CAT.pdf` | PDF export of all drawings |
 | `FloorPlan.PNG` | Typical floor plan layout |
 | `ElectricalPlan.PNG` | Full electrical wiring layout |
 | `ElecricalPlanKey.PNG` | Electrical plan legend/key |
