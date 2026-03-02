@@ -48,6 +48,10 @@ Typical floor plan for one floor of the 14-storey building showing:
 - Correct use of layers and line types
 - Clear dimensions and labels
 
+![Floor Plan](FloorPlan.PNG)
+
+---
+
 ### (b) Electrical Wiring Layout — 6 Marks
 Electrical plan for the building showing:
 - Main power supply line
@@ -55,6 +59,14 @@ Electrical plan for the building showing:
 - Lighting points and socket outlets
 - Switch positions
 - Electrical symbols and legend
+
+![Electrical Plan](ElectricalPlan.PNG)
+
+| Legend | Panel Box |
+|--------|-----------|
+| ![Electrical Key](ElecricalPlanKey.PNG) | ![Panel Box](ElecricalPlanPanelBox.PNG) |
+
+---
 
 ### (c) Water Supply and Plumbing Plan — 6 Marks
 Plumbing system drawing indicating:
@@ -64,6 +76,14 @@ Plumbing system drawing indicating:
 - Water tanks / pump rooms
 - Correct plumbing symbols and pipe routing
 
+![Plumbing Plan](PlumbingPlan.PNG)
+
+| Left Section | Right Section | Legend |
+|-------------|--------------|--------|
+| ![Plumbing Left](PlumbingPlanLeft.PNG) | ![Plumbing Right](PlumbingPlanRight.PNG) | ![Plumbing Key](PlumbingPlanKey.PNG) |
+
+---
+
 ### (d) Wi-Fi and Network Cabling Plan — 5 Marks
 Network infrastructure layout showing:
 - Network backbone
@@ -71,6 +91,10 @@ Network infrastructure layout showing:
 - Wi-Fi access point locations
 - Data cabling routes
 - Proper labeling and symbols
+
+![WiFi Plan](WIFIPlan.PNG)
+
+![WiFi Legend](WIFIPlanKey2.PNG)
 
 ### (e) Presentation and Professionalism — 3 Marks
 - Proper use of layers and naming conventions
