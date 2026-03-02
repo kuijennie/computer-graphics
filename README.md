@@ -8,6 +8,7 @@
 
 | Field | Details |
 |-------|---------|
+| **Name** | Jane Wangui Gichuhi |
 | **Admission No.** | BSCCS/2024/32659 |
 | **Program** | BSc Computer Science |
 | **Unit** | Practical Computer Graphics |
